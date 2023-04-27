@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "chromatic": "npx chromatic --project-token=5a2cdc0a8203"
   },
   "dependencies": {
     "autoprefixer": "10.4.14",
@@ -31,5 +32,7 @@
     "chromatic": "^6.17.3",
     "eslint-plugin-storybook": "^0.6.11",
     "storybook": "^7.0.7"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "first-app@0.1.0"
 }
